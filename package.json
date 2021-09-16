@@ -1,0 +1,17 @@
+{
+  "name": "ivan",
+  "version": "1.0.0",
+  "description": "privatemode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ivan Kosomov",
+  "license": "Apache",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
