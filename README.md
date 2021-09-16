@@ -1,4 +1,4 @@
-# private room generator
+# Private Room Generator
 Özel odalara giriş yapamayan kullanıcıların kendilerine özel oda oluşturmasını sağla.
 
 # Kurulum
